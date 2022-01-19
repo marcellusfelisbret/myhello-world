@@ -1,3 +1,3 @@
-FROM alpine:3.4
+FROM alpine:latest
 ENTRYPOINT ["/bin/echo", "Hello world Branch3"]
 
